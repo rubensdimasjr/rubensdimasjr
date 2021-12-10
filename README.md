@@ -1,14 +1,4 @@
 ## Olá! Eu sou o Rubens 
-  <style>
-  @media (min-width: 992px) {
-  .img_status{
-    width:50%;
-    }
-  .img_status2{
-    width:49%;
-    }
-  }
-</style>
 <div>
 <a href="https://github.com/rubensdimasjr">
 <img height="180em" class="img_status" src="https://github-readme-stats.vercel.app/api?username=rubensdimasjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
