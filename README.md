@@ -1,25 +1,22 @@
 ## Olá! Eu sou o Rubens 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensdimasjr&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 <a href="https://github.com/rubensdimasjr">
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=rubensdimasjr&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=rubensdimasjr&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=rubensdimasjr&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
+    <img align="center" alt="Rubs-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Rubs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Rubs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rubs-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Rubs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rubs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rubs-Java" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rubs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Rubs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
+  <img align="center" alt="Rubs-Java" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 <br />
 <br />
