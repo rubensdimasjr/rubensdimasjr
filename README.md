@@ -12,6 +12,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=rubensdimasjr&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rubs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
