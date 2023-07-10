@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Rubens 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensdimasjr&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 <a href="https://github.com/rubensdimasjr">
 <picture>
